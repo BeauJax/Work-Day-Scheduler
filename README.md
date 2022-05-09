@@ -22,6 +22,9 @@ THEN the saved events persis
 
 
 MOCK UP: 
+
+
 ![image](https://user-images.githubusercontent.com/97919916/167333375-ed4665aa-bdaf-4f99-8216-e8ac8cc72a59.gif)
 
 LIVE DEPLOYMENT: 
+https://beaujax.github.io/Work-Day-Scheduler/
